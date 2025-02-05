@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🗽 I'm based out of NYC<br>
-🤔 I’m looking for help with landing a full-time role<br>
+🤔 I’m currently working at a startup in NYC
 🌱 I’m currently learning some data stuff <br>
 👯 I’m looking to collaborate on some music production <br>
 💬 Ask me about Design & Tech <br>
