@@ -14,3 +14,4 @@
 <a href="https://linkedin.com/in/sidhyatikku" target="blank"><img src="icons/in.svg" height="50" /></a>
 <a href="https://x.com/sidhyatikku" target="blank"><img src="icons/x.svg" height="50" /></a>
 <a href="https://photography.sidhyatikku.com/" target="blank"><img src="icons/cam.svg" height="50" /></a>
+<a href="https://ai.sidhyatikku.com/" target="blank"><img src="icons/sparkle.svg" height="50" /></a>
